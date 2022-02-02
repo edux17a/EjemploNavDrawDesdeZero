@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/item_contenido1"
+        android:title="Contenido 1" />
+    <item
+        android:id="@+id/item_contenido2"
+        android:title="Contenido 2" />
+    <item
+        android:id="@+id/item_contenido3"
+        android:title="Contenido 3" />
+</menu>
